@@ -2,7 +2,7 @@
 
 ### I'm a Student and a Developer!
 
-- 🔭 Currently brewing magic at [Bukalapak](https://www.bukalapak.com/)
+- 🔭 Currently brewing magic at [Dropezy](https://www.dropezy.com/)
 - 🦟 Second year student at Bina Nusantara University
 
 ### Connect with me:
